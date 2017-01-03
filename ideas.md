@@ -12,3 +12,4 @@ These are all language agnostic except where noted
 * Join code newbie slack? https://codenewbie.typeform.com/to/uwsWlZ
 * Refine my website
 * Blog weekly about this?
+* Teaching roomate about basic coding
