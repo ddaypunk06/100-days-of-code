@@ -10,3 +10,5 @@ These are all language agnostic except where noted
 * Look at programming daily on Reddit: https://www.reddit.com/r/dailyprogrammer/
 * Year of programming challenges: https://github.com/YearOfProgramming/2017Challenges
 * Join code newbie slack? https://codenewbie.typeform.com/to/uwsWlZ
+* Refine my website
+* Blog weekly about this?
