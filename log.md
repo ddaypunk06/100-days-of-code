@@ -11,7 +11,7 @@
 
 ### Day 1: January 3, 2071
 
-**Today's Progress**: Doing a review on FCC site. Starting at the beginning because I haven't looked at HTML or CSS in a long time and want to get better at front end. Remember as styles go down they override those above. inline trumps this. Id's trump classes, and !important trumps all. *Update*: Spent 10 extra minutes to just finish the whole HTML5 and CSS section. Onward to responsive design and bootstrap!
+**Today's Progress**: Doing a review on FCC site. Starting at the beginning because I haven't looked at HTML or CSS in a long time and want to get better at front end. Remember as styles go down they override those above. inline trumps this. Id's trump classes, and `!important` trumps all. *Update*: Spent 10 extra minutes to just finish the whole HTML5 and CSS section. Onward to responsive design and bootstrap!
 
 **Thoughts:** Its sorta like riding a bike but the CSS review is immensely helpful and how overriding works! Looking forward to using this on an actual project. I really would like to finish the certifications and do something with them! The program looks nice and I burned through a lot in an hour (per update above, this should take 5 hours)
 
