@@ -19,8 +19,8 @@
 
 ### Day 2: January 4, 2071
 
-**Today's Progress**: TBA
+**Today's Progress**: Worked on two kata's on Code Wars website. First of which was counting vowels. I completed this in both java and python. The second was highest and lowest. I did not complete this within the hour and may work on it in the morning.
 
-**Thoughts:** TBA
+**Thoughts:** I use java daily at work, but I am very used to having the IDE to help navigate class methods and such. I am also not using commong Java methods because I am writing selenium glue and using mostly methods from that framework. So I had to look a lot of things up. While the katas were easy, since I don't do this on the daily, I had to think through things a lot. The Counting Vowels kata was real easy and I completed it in both languages real fast. The second one because of not knowing readily what I could and couldn't do in java, took longer, due to looking things up.
 
-**Link to work:** TBA
+**Link to work:** [CodeWars Profile](https://www.codewars.com/users/ddaypunk06)
