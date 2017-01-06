@@ -24,3 +24,11 @@
 **Thoughts:** I use java daily at work, but I am very used to having the IDE to help navigate class methods and such. I am also not using commong Java methods because I am writing selenium glue and using mostly methods from that framework. So I had to look a lot of things up. While the katas were easy, since I don't do this on the daily, I had to think through things a lot. The Counting Vowels kata was real easy and I completed it in both languages real fast. The second one because of not knowing readily what I could and couldn't do in java, took longer, due to looking things up.
 
 **Link to work:** [CodeWars Profile](https://www.codewars.com/users/ddaypunk06)
+
+### Day 3: January 5, 2071
+
+**Today's Progress**: Worked on one 7 kata called "Resistor Color Codes" in java.
+
+**Thoughts:** Had I started earlier in the evening this would have gone better. Unfortunately I had some running around to do, but wanted to stay on track for Day 3. I didn't realize what data structures are standard and which need to be imported, so I spent a fair amount of time getting that steup after I wrote much of the code already. I didn't complete it, but I got pretty far. Running it showed the tests failed, but the output was not very helpful as to why. I expected it to fail because I wasn't fully done, but I was returning a string similar to what they wanted.
+
+**Link to work:** [CodeWars Profile](https://www.codewars.com/users/ddaypunk06)
