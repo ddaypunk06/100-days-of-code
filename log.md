@@ -32,3 +32,13 @@
 **Thoughts:** Had I started earlier in the evening this would have gone better. Unfortunately I had some running around to do, but wanted to stay on track for Day 3. I didn't realize what data structures are standard and which need to be imported, so I spent a fair amount of time getting that steup after I wrote much of the code already. I didn't complete it, but I got pretty far. Running it showed the tests failed, but the output was not very helpful as to why. I expected it to fail because I wasn't fully done, but I was returning a string similar to what they wanted.
 
 **Link to work:** [CodeWars Profile](https://www.codewars.com/users/ddaypunk06)
+
+### Day 4: January 6, 2071
+
+**Today's Progress**: Mooooooore Katas! I completed 3x 7-kyu katas and 1x 6-kyu kata! The 6-kyu was the second one up and I got stuck on an error and couldn't figure out where it was coming from. These were all in python today. I just am not feeling the java right now.
+
+**Thoughts:** I felt really good about myself once I finished the 6kyu one and it ranked my up to 7kyu from 8 (lowest rank). Now that python has gotten me here, I plan on doing more java and maybe some javascript soon; although, I may do that after I see some js n free code camp or explore some more tutorials off 100days hourly quota. I really want to get better with all three over time. Tribonacci sequence for the win!
+
+**absence tomorrow unavoidable** Sadly, it is my work's holiday during my usual coding time tomorrow and I have my kids during the day. So I will more than likely have to skip tomorrow and add another day to the 100 the next day. Can't help it!
+
+**Link to work:** [CodeWars Completed Katas](https://www.codewars.com/users/ddaypunk06)
