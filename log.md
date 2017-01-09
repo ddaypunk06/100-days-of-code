@@ -42,3 +42,11 @@
 **absence tomorrow unavoidable** Sadly, it is my work's holiday during my usual coding time tomorrow and I have my kids during the day. So I will more than likely have to skip tomorrow and add another day to the 100 the next day. Can't help it!
 
 **Link to work:** [CodeWars Completed Katas](https://www.codewars.com/users/ddaypunk06)
+
+### Day 5: January 8, 2071
+
+**Today's Progress**: Had to skip yesterday but today is day 5 now. I worked on some more katas. I was only able to complete one, sooooo tired today for some reason and most of the katas I found tonight were math based. I completed one 7kyu one.
+
+**Thoughts:** I made it through third semester calculus in college and I am good at math normally, but tonight I was so tired the numbers were just laughing at me. So I didn't code as much as I would like to within the hour, but I at least tried. I may need to come up with a project soon so I am doing something a bit more constructive.
+
+**Link to work:** [CodeWars Completed Katas](https://www.codewars.com/users/ddaypunk06)
