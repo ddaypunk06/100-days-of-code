@@ -9,7 +9,7 @@
 
 **Link to work:** [Calculator App](http://www.example.com)
 
-### Day 1: January 3, 2071
+### Day 1: January 3, 2017
 
 **Today's Progress**: Doing a review on FCC site. Starting at the beginning because I haven't looked at HTML or CSS in a long time and want to get better at front end. Remember as styles go down they override those above. inline trumps this. Id's trump classes, and `!important` trumps all. *Update*: Spent 10 extra minutes to just finish the whole HTML5 and CSS section. Onward to responsive design and bootstrap!
 
@@ -17,7 +17,7 @@
 
 **Link to work:** [FreeCodeCamp Profile](https://www.freecodecamp.com/ddaypunk06)
 
-### Day 2: January 4, 2071
+### Day 2: January 4, 2017
 
 **Today's Progress**: Worked on two kata's on Code Wars website. First of which was counting vowels. I completed this in both java and python. The second was highest and lowest. I did not complete this within the hour and may work on it in the morning.
 
@@ -25,7 +25,7 @@
 
 **Link to work:** [CodeWars Profile](https://www.codewars.com/users/ddaypunk06)
 
-### Day 3: January 5, 2071
+### Day 3: January 5, 2017
 
 **Today's Progress**: Worked on one 7 kata called "Resistor Color Codes" in java.
 
@@ -33,7 +33,7 @@
 
 **Link to work:** [CodeWars Profile](https://www.codewars.com/users/ddaypunk06)
 
-### Day 4: January 6, 2071
+### Day 4: January 6, 2017
 
 **Today's Progress**: Mooooooore Katas! I completed 3x 7-kyu katas and 1x 6-kyu kata! The 6-kyu was the second one up and I got stuck on an error and couldn't figure out where it was coming from. These were all in python today. I just am not feeling the java right now.
 
@@ -43,7 +43,7 @@
 
 **Link to work:** [CodeWars Completed Katas](https://www.codewars.com/users/ddaypunk06)
 
-### Day 5: January 8, 2071
+### Day 5: January 8, 2017
 
 **Today's Progress**: Had to skip yesterday but today is day 5 now. I worked on some more katas. I was only able to complete one, sooooo tired today for some reason and most of the katas I found tonight were math based. I completed one 7kyu one.
 
