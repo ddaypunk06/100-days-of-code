@@ -51,7 +51,7 @@
 
 **Link to work:** [CodeWars Completed Katas](https://www.codewars.com/users/ddaypunk06)
 
-### Day 5: January 8, 2017
+### Day 6: January 9, 2017
 
 **Today's Progress**: Ran through about 4 or 5 katas tonight and this ranked my up in java! I only did java tonight. Currently 7 across the board and almost halfway to 6 overall! Moving right along!
 
