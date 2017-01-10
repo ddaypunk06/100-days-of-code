@@ -50,3 +50,11 @@
 **Thoughts:** I made it through third semester calculus in college and I am good at math normally, but tonight I was so tired the numbers were just laughing at me. So I didn't code as much as I would like to within the hour, but I at least tried. I may need to come up with a project soon so I am doing something a bit more constructive.
 
 **Link to work:** [CodeWars Completed Katas](https://www.codewars.com/users/ddaypunk06)
+
+### Day 5: January 8, 2017
+
+**Today's Progress**: Ran through about 4 or 5 katas tonight and this ranked my up in java! I only did java tonight. Currently 7 across the board and almost halfway to 6 overall! Moving right along!
+
+**Thoughts:**: I had to look up a few things like MAX_VALUE because I was using a similar value in Python which is sys.maxsize. Otherwise, I had a good mix of Kyu7's and Kyu6's tonight. I skipped a few because I was wasting too much time thinking of the solution without any code written. So I figured in the interest of actually writing code, I would keep moving.
+
+**Link to work:** [CodeWars Completed Katas](https://www.codewars.com/users/ddaypunk06)
