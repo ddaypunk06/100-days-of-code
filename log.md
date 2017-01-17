@@ -58,3 +58,15 @@
 **Thoughts:**: I had to look up a few things like MAX_VALUE because I was using a similar value in Python which is sys.maxsize. Otherwise, I had a good mix of Kyu7's and Kyu6's tonight. I skipped a few because I was wasting too much time thinking of the solution without any code written. So I figured in the interest of actually writing code, I would keep moving.
 
 **Link to work:** [CodeWars Completed Katas](https://www.codewars.com/users/ddaypunk06)
+
+### GAP - Personal stuff
+
+**Today's Progress**: No progress from now until the next entry. Had some personal medical stuff going on and no time or will to code.
+
+### Day 7: January 16, 2017
+
+**Today's Progress**: Started late, so instead of coding. I started looking through open API's to get some ideas. The katas aren't helping. They are mostly map and I don't know enough of the nitty gritty of java and python to come up with quick clever answers. I'd honestly rather work on building something. 
+
+**Thoughts:**: NASA API sounds a bit interesting. Been hearing a lot about mars lately and its getting me back into space stuff. Looked on a list on wikipedia and here: [toddmotto API List](https://github.com/toddmotto/public-apis). Maybe I will start simple like with an inspirational quote generator or something and work myself up. I need to review building a whole app, deploying, the whole she'bang.
+
+**Link to work:** No link today.
