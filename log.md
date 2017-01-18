@@ -70,3 +70,11 @@
 **Thoughts:**: NASA API sounds a bit interesting. Been hearing a lot about mars lately and its getting me back into space stuff. Looked on a list on wikipedia and here: [toddmotto API List](https://github.com/toddmotto/public-apis). Maybe I will start simple like with an inspirational quote generator or something and work myself up. I need to review building a whole app, deploying, the whole she'bang.
 
 **Link to work:** No link today.
+
+### Day 8: January 17, 2017
+
+**Today's Progress**: Did some more API perusing but still cant decide. I am thinking maybe about poking at spotify a bit just to mess with data. Did half the next lesson of FCCamp and used some of what I learned about bootcamp and fontawesome to add an icon to my weather app from a few years back. I got the button one to work, but not next to the thermometer. I think the label tag has something to do with it. I spent about 2 hours tonight without even thinking about it. (Neck pain...time to sleep) Depending on what I have going on tomorrow I may take the day since I did extra today, or only do about 30 minutes to complete the FCC lesson I was in the middle of.
+
+**Thoughts:**: It was fun to get back to bootstrap because I really like it. FontAwesome is pretty cool too. I want to spend some more time tomorrow using the bootstrap grid system a bit better on my form to make it look nicer. That and get the font icons working everywhere. Next step will be using some moment JS I think to fix the timezone issue that has existed on it forever because its hosted by heroku and picks up the server time.
+
+**Link to work:** [ddaypunk github repo for weatherizer](https://github.com/ddaypunk06/weatherize)
